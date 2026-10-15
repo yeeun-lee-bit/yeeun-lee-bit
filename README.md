@@ -36,7 +36,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
-## Projects
+## Featured Projects
 
 ### Final Team Project — AI-MegaStudy
 
@@ -71,9 +71,15 @@
 
 ### Other Projects
 
-- **Service Planning** — 서비스 기획 및 기능 설계
-- **Data & AI** — 데이터 분석 및 AI 프로젝트
-- **Web & App** — 웹·앱 개발 프로젝트
+- [STEP_TEAM_PROJECT](https://github.com/yeeun-lee-bit/STEP_TEAM_PROJECT) — Team app and operations web project; login, sign-up, and detail screens are listed as my contribution in the repository notes
+- [table_now_app](https://github.com/yeeun-lee-bit/table_now_app) — Flutter table reservation app
+- [teamProjectOne-](https://github.com/yeeun-lee-bit/teamProjectOne-) — Flutter chart visualization project
+- [HannunHospital](https://github.com/yeeun-lee-bit/HannunHospital) — Flutter symptom-related project
+
+## Portfolio Index
+
+- [Bootcamp Portfolio](https://github.com/yeeun-lee-bit/bootcamp-portfolio) — Curated index of projects
+- [Team Projects](https://github.com/yeeun-lee-bit/team-project) — Index of collaborative project repositories
 
 ## Currently Learning
 
