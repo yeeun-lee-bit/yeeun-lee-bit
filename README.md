@@ -88,7 +88,6 @@
 - [table_now_app](https://github.com/yeeun-lee-bit/table_now_app) — Flutter table reservation app
 - [teamProjectOne-](https://github.com/yeeun-lee-bit/teamProjectOne-) — Flutter chart visualization project
 - [HannunHospital](https://github.com/yeeun-lee-bit/HannunHospital) — Flutter symptom-related project
-- [gyeotjip](https://github.com/yeeun-lee-bit/gyeotjip) — Community and experience-connection service concept
 
 ## Portfolio Index
 
