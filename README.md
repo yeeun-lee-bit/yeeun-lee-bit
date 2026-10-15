@@ -1,73 +1,86 @@
 # Hi, I'm Yeeun Lee
 
-### Digital Service Planning · Data Analysis
+### Digital Service Planning · Data Analysis · AI-enabled Services
 
-기술과 데이터를 연결해 더 나은 서비스를 기획하고 구현하는 데 관심이 있습니다.
+기술과 데이터를 연결해 실용적인 디지털 서비스를 기획하고 구현하는 데 관심이 있습니다.
 
 ## About Me
 
-- Interested in digital service planning
+- Interested in digital service planning and UX
 - Exploring data analysis and AI applications
-- Developing web and app projects to solve real-world problems
-- Interested in digital transformation and public-sector IT
-- Exploring ideas through app development and project-based learning
+- Building web and app projects to solve real-world problems
+- Interested in public-sector IT and digital transformation
+- Expanding into video editing and visual storytelling
 
 ## Areas of Interest
 
 - Service Planning & UX
 - Data Analysis & Visualization
 - AI-powered Services
+- Web / App Development
 - Public-sector Digital Projects
+- Video Editing & Storytelling
 
-## Tech Stack
+## Tech Stack & Tools
 
-**AI / ML**
+기술은 프로젝트별로 사용 범위가 다르며, 아래는 여러 프로젝트에서 활용하거나 실습한 도구입니다.
 
+**Languages / Frontend**
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
-**Backend / Data**
+**Backend / Data / AI**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-**Tools**
+**Web / Deployment / Collaboration**
 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
+**Creative Tools — Learning**
+
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-Learning-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+
 ## Featured Projects
 
-### Final Team Project — AI-MegaStudy
+### Final Team Project — Harvest Slot
 
-학원 파이널 프로젝트로 진행한 팀 프로젝트입니다. 웹 프론트엔드 개발을 중심으로 담당했습니다.
+수확 예측을 기반으로 과수 농가의 예약·직배송 과정을 연결하는 팀 프로젝트입니다.
 
-**My Role: Frontend Development**
+**My Role: Web Frontend Development**
 
-- Focused on front-end development for the web project
+- Flutter 기반 웹 프론트엔드 개발
+- FastAPI 백엔드와 REST API 연동 작업
 
 **Project Repositories**
-
-- [smart_web](https://github.com/AI-MegaStudy/smart_web) — Web project
-- [smart_dl](https://github.com/AI-MegaStudy/smart_dl) — Deep learning
-- [SMART_APP2](https://github.com/AI-MegaStudy/SMART_APP2) — App project
-- [smart_app](https://github.com/AI-MegaStudy/smart_app) — App project
-- [smart_ml](https://github.com/AI-MegaStudy/smart_ml) — Machine learning
+- [smart_web](https://github.com/AI-MegaStudy/smart_web) — Flutter web frontend and FastAPI integration
+- [smart_ml](https://github.com/AI-MegaStudy/smart_ml) — Machine learning and data analysis
+- [smart_dl](https://github.com/AI-MegaStudy/smart_dl) — Deep-learning work
 - [smart_docs](https://github.com/AI-MegaStudy/smart_docs) — Project documentation
 
 ### Nanji Hangang Park Parking Vacancy Prediction App & Web
 
-난지한강공원 주차장 빈자리 예측 앱·웹 제작 프로젝트에서 팀장을 맡았습니다.
+난지한강공원 주차장 빈자리 예측 앱·웹 프로젝트에서 팀장을 맡았습니다.
 
 **My Role: Team Lead**
 
-- Led the team during development of the parking vacancy prediction app and web service
+- 앱·웹 통합 프론트엔드 개발 리딩
+- ERD 작성 및 프로젝트 발표자료 작성
+- 주차 수요 변화량 예측을 활용하는 앱·웹 서비스 기획·개발 과정 조율
 
 **Project Repositories**
-
-- [nanji_web](https://github.com/AI-MegaStudy/nanji_web) — Web service
+- [nanji_web](https://github.com/AI-MegaStudy/nanji_web) — Flutter web dashboard
 - [nanji_app](https://github.com/AI-MegaStudy/nanji_app) — Swift app
-- [nanji_work](https://github.com/AI-MegaStudy/nanji_work) — Jupyter Notebook / data work
+- [nanji_work](https://github.com/AI-MegaStudy/nanji_work) — Data / notebook work
 
 ### Other Projects
 
@@ -75,17 +88,18 @@
 - [table_now_app](https://github.com/yeeun-lee-bit/table_now_app) — Flutter table reservation app
 - [teamProjectOne-](https://github.com/yeeun-lee-bit/teamProjectOne-) — Flutter chart visualization project
 - [HannunHospital](https://github.com/yeeun-lee-bit/HannunHospital) — Flutter symptom-related project
+- [gyeotjip](https://github.com/yeeun-lee-bit/gyeotjip) — Community and experience-connection service concept
 
 ## Portfolio Index
 
-- [Bootcamp Portfolio](https://github.com/yeeun-lee-bit/bootcamp-portfolio) — Curated index of projects
+- [Bootcamp Portfolio](https://github.com/yeeun-lee-bit/bootcamp-portfolio) — Curated project index
 - [Team Projects](https://github.com/yeeun-lee-bit/team-project) — Index of collaborative project repositories
 
 ## Currently Learning
 
+- Digital service planning and UX
 - Data-driven decision making
-- Digital service planning
-- Project management
+- **Adobe Premiere Pro:** video editing and storytelling for public-interest and promotional content
 
 ---
 
