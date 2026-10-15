@@ -38,6 +38,28 @@
 
 ## Projects
 
+### Final Team Project — AI-MegaStudy
+
+학원 파이널 프로젝트로 진행한 팀 프로젝트입니다. 웹 파트를 중심으로 담당했습니다.
+
+**My Focus: Web Development**
+
+- Web development and implementation
+- Collaboration with team members across the project
+
+**Project Repositories**
+
+- [smart_web](https://github.com/AI-MegaStudy/smart_web) — Web-focused project
+- [smart_dl](https://github.com/AI-MegaStudy/smart_dl) — Deep learning
+- [SMART_APP2](https://github.com/AI-MegaStudy/SMART_APP2) — App project
+- [smart_app](https://github.com/AI-MegaStudy/smart_app) — App project
+- [smart_ml](https://github.com/AI-MegaStudy/smart_ml) — Machine learning
+- [smart_docs](https://github.com/AI-MegaStudy/smart_docs) — Project documentation
+
+*The repositories above belong to the team project. My primary focus was the web portion.*
+
+### Other Projects
+
 - **Service Planning** — 서비스 기획 및 기능 설계
 - **Data & AI** — 데이터 분석 및 AI 프로젝트
 - **Web & App** — 웹·앱 개발 프로젝트
