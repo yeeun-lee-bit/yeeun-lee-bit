@@ -58,12 +58,12 @@
 
 ### Team Lead — Nanji Hangang Park Parking Vacancy Prediction App & Web
 
-난지한강공원 주차장 빈자리 예측 앱·웹 제작 프로젝트에서 팀장을 맡았습니다.
+난지한강공원 주차장 빈자리 예측 앱·웹 제작 프로젝트에서 팀장을 맡았으며, 웹에서는 프론트엔드 작업을 중심으로 담당했습니다.
 
-**My Role: Team Lead**
+**My Role: Team Lead · Frontend Development**
 
 - Led the team during development of the parking vacancy prediction app and web service
-- Coordinated app, web, and data-related work across the project
+- Focused primarily on front-end work for the web service
 
 **Project Repositories**
 
