@@ -42,10 +42,10 @@
 
 학원 파이널 프로젝트로 진행한 팀 프로젝트입니다. 웹 파트를 중심으로 담당했습니다.
 
-**My Focus: Web Development**
+**My Role: Web Development**
 
-- Web development and implementation
-- Collaboration with team members across the project
+- Focused on the web portion of the team project
+- Collaborated with teammates working on app and AI/ML components
 
 **Project Repositories**
 
@@ -56,7 +56,20 @@
 - [smart_ml](https://github.com/AI-MegaStudy/smart_ml) — Machine learning
 - [smart_docs](https://github.com/AI-MegaStudy/smart_docs) — Project documentation
 
-*The repositories above belong to the team project. My primary focus was the web portion.*
+### Team Lead — Nanji Hangang Park Parking Vacancy Prediction App & Web
+
+난지한강공원 주차장 빈자리 예측 앱·웹 제작 프로젝트에서 팀장을 맡았습니다.
+
+**My Role: Team Lead**
+
+- Led the team during development of the parking vacancy prediction app and web service
+- Coordinated app, web, and data-related work across the project
+
+**Project Repositories**
+
+- [nanji_web](https://github.com/AI-MegaStudy/nanji_web) — Web service
+- [nanji_app](https://github.com/AI-MegaStudy/nanji_app) — Swift app
+- [nanji_work](https://github.com/AI-MegaStudy/nanji_work) — Jupyter Notebook / data work
 
 ### Other Projects
 
