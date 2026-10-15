@@ -1,3 +1,5 @@
+![Yeeun's Profile](./YL_gray_puppy_avatar.jpg)
+
 # Hi, I'm Yeeun Lee
 
 ### Digital Service Planning · Data Analysis
