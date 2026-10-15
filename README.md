@@ -1,5 +1,3 @@
-![Yeeun's Profile](./YL_gray_puppy_avatar.jpg)
-
 # Hi, I'm Yeeun Lee
 
 ### Digital Service Planning · Data Analysis
@@ -13,7 +11,7 @@
 - Developing web and app projects to solve real-world problems
 - Interested in digital transformation and public-sector IT
 - Exploring ideas through app development and project-based learning
-  
+
 ## Areas of Interest
 
 - Service Planning & UX
@@ -21,16 +19,14 @@
 - AI-powered Services
 - Public-sector Digital Projects
 
+## Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## Tech Stack
-
-- Languages: Python, R, Swift
-- Frameworks: Flutter
 - Tools: Git, GitHub, SQL
 
 ## Projects
