@@ -40,30 +40,28 @@
 
 ### Final Team Project — AI-MegaStudy
 
-학원 파이널 프로젝트로 진행한 팀 프로젝트입니다. 웹 파트를 중심으로 담당했습니다.
+학원 파이널 프로젝트로 진행한 팀 프로젝트입니다. 웹 프론트엔드 개발을 중심으로 담당했습니다.
 
-**My Role: Web Development**
+**My Role: Frontend Development**
 
-- Focused on the web portion of the team project
-- Collaborated with teammates working on app and AI/ML components
+- Focused on front-end development for the web project
 
 **Project Repositories**
 
-- [smart_web](https://github.com/AI-MegaStudy/smart_web) — Web-focused project
+- [smart_web](https://github.com/AI-MegaStudy/smart_web) — Web project
 - [smart_dl](https://github.com/AI-MegaStudy/smart_dl) — Deep learning
 - [SMART_APP2](https://github.com/AI-MegaStudy/SMART_APP2) — App project
 - [smart_app](https://github.com/AI-MegaStudy/smart_app) — App project
 - [smart_ml](https://github.com/AI-MegaStudy/smart_ml) — Machine learning
 - [smart_docs](https://github.com/AI-MegaStudy/smart_docs) — Project documentation
 
-### Team Lead — Nanji Hangang Park Parking Vacancy Prediction App & Web
+### Nanji Hangang Park Parking Vacancy Prediction App & Web
 
-난지한강공원 주차장 빈자리 예측 앱·웹 제작 프로젝트에서 팀장을 맡았으며, 웹에서는 프론트엔드 작업을 중심으로 담당했습니다.
+난지한강공원 주차장 빈자리 예측 앱·웹 제작 프로젝트에서 팀장을 맡았습니다.
 
-**My Role: Team Lead · Frontend Development**
+**My Role: Team Lead**
 
 - Led the team during development of the parking vacancy prediction app and web service
-- Focused primarily on front-end work for the web service
 
 **Project Repositories**
 
