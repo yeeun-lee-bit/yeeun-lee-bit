@@ -89,21 +89,9 @@
 - [teamProjectOne-](https://github.com/yeeun-lee-bit/teamProjectOne-) — Flutter chart visualization project
 - [HannunHospital](https://github.com/yeeun-lee-bit/HannunHospital) — Flutter symptom-related project
 
-## Portfolio Website
-
-<p align="center">
-  <a href="https://yeeun-portfolio-git-main-with-zip.vercel.app">
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https%3A%2F%2Fyeeun-portfolio-git-main-with-zip.vercel.app&bgcolor=FFFFFF&color=344563" alt="Scan to open Yeeun Lee's portfolio website" width="150" />
-  </a>
-  <br />
-  <strong><a href="https://yeeun-portfolio-git-main-with-zip.vercel.app">Open my portfolio website ↗</a></strong>
-  <br />
-  <sub>Scan the QR code to view my digital projects and engineering journal.</sub>
-</p>
-
 ## Portfolio Index
 
-- **Personal Portfolio Web App** — Responsive portfolio site with a soft, minimal visual style.
+- **Personal Portfolio Web App** — In development; preview link and QR code will be added after the private review is complete.
 - **Bootcamp Portfolio** — Curated project index (repository link to be added after verification)
 - **Team Projects** — Index of collaborative project repositories (repository link to be added after verification)
 
