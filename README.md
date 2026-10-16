@@ -89,11 +89,30 @@
 - [teamProjectOne-](https://github.com/yeeun-lee-bit/teamProjectOne-) — Flutter chart visualization project
 - [HannunHospital](https://github.com/yeeun-lee-bit/HannunHospital) — Flutter symptom-related project
 
-## Portfolio Index
+## Portfolio Website
 
-- **Personal Portfolio Web App** — In development; preview link and QR code will be added after the private review is complete.
-- **Bootcamp Portfolio** — Curated project index (repository link to be added after verification)
-- **Team Projects** — Index of collaborative project repositories (repository link to be added after verification)
+**[Open Yeeun's Portfolio](https://yeeun-portfolio-with-zip.vercel.app/)**
+
+Scan the QR code to open the portfolio website.
+
+![Portfolio website QR code](https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Fyeeun-portfolio-with-zip.vercel.app%2F)
+
+## Bootcamp Team Projects
+
+All repositories in the [bootcamp-team-projects organization](https://github.com/orgs/bootcamp-team-projects/repositories) are indexed in the portfolio website.
+
+### Featured Team Projects
+
+- **Harvest Slot** — [smart_web](https://github.com/bootcamp-team-projects/smart_web), [smart_ml](https://github.com/bootcamp-team-projects/smart_ml), [smart_dl](https://github.com/bootcamp-team-projects/smart_dl), [smart_docs](https://github.com/bootcamp-team-projects/smart_docs)
+- **Nanji Parking Forecast** — [nanji_web](https://github.com/bootcamp-team-projects/nanji_web), [nanji_app](https://github.com/bootcamp-team-projects/nanji_app), [nanji_work](https://github.com/bootcamp-team-projects/nanji_work)
+- **STEP Team Project** — [STEP_TEAM_PROJECT](https://github.com/bootcamp-team-projects/STEP_TEAM_PROJECT): login, sign-up, and detail screen implementation
+- **Table Now** — [table_now_app](https://github.com/bootcamp-team-projects/table_now_app)
+- **My Town, My Symptom** — [HannunHospital](https://github.com/bootcamp-team-projects/HannunHospital)
+- **Chart Project** — [teamProjectOne-](https://github.com/bootcamp-team-projects/teamProjectOne-)
+- **DDRI** — [ddri_web](https://github.com/bootcamp-team-projects/ddri_web), [ddri_work](https://github.com/bootcamp-team-projects/ddri_work)
+- **Smart App** — [smart_app](https://github.com/bootcamp-team-projects/smart_app), [SMART_APP2](https://github.com/bootcamp-team-projects/SMART_APP2)
+- **Shoes Shop** — [shoes_shop_app](https://github.com/bootcamp-team-projects/shoes_shop_app), [shoes_store_basic_app](https://github.com/bootcamp-team-projects/shoes_store_basic_app)
+- **Shoes Shop (Private)** — private organization repository; not linked from the public-facing project list
 
 ## Currently Learning
 
