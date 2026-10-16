@@ -50,7 +50,7 @@
 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-Learning-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
 
-## Featured Projects
+## Featured Team Projects
 
 ### Final Team Project — Harvest Slot
 
@@ -62,10 +62,10 @@
 - FastAPI 백엔드와 REST API 연동 작업
 
 **Project Repositories**
-- [smart_web](https://github.com/AI-MegaStudy/smart_web) — Flutter web frontend and FastAPI integration
-- [smart_ml](https://github.com/AI-MegaStudy/smart_ml) — Machine learning and data analysis
-- [smart_dl](https://github.com/AI-MegaStudy/smart_dl) — Deep-learning work
-- [smart_docs](https://github.com/AI-MegaStudy/smart_docs) — Project documentation
+- [smart_web](https://github.com/bootcamp-team-projects/smart_web) — Flutter web frontend and FastAPI integration
+- [smart_ml](https://github.com/bootcamp-team-projects/smart_ml) — Machine learning and data analysis
+- [smart_dl](https://github.com/bootcamp-team-projects/smart_dl) — Deep-learning work
+- [smart_docs](https://github.com/bootcamp-team-projects/smart_docs) — Project documentation
 
 ### Nanji Hangang Park Parking Vacancy Prediction App & Web
 
@@ -73,21 +73,19 @@
 
 **My Role: Team Lead**
 
-- 앱·웹 통합 프론트엔드 개발 리딩
-- ERD 작성 및 프로젝트 발표자료 작성
-- 주차 수요 변화량 예측을 활용하는 앱·웹 서비스 기획·개발 과정 조율
+- 앱·웹 통합 개발 조율
+- ERD 작성 및 발표자료 제작
+- 앱·웹 프로젝트 진행 상황 조율
 
 **Project Repositories**
-- [nanji_web](https://github.com/AI-MegaStudy/nanji_web) — Flutter web dashboard
-- [nanji_app](https://github.com/AI-MegaStudy/nanji_app) — Swift app
-- [nanji_work](https://github.com/AI-MegaStudy/nanji_work) — Data / notebook work
+- [nanji_web](https://github.com/bootcamp-team-projects/nanji_web) — Flutter web dashboard
+- [nanji_app](https://github.com/bootcamp-team-projects/nanji_app) — App repository
+- [nanji_work](https://github.com/bootcamp-team-projects/nanji_work) — Data and notebook work
 
-### Other Projects
+### STEP Team Project
 
-- [STEP_TEAM_PROJECT](https://github.com/yeeun-lee-bit/STEP_TEAM_PROJECT) — Team app and operations web project; login, sign-up, and detail screens are listed as my contribution in the repository notes
-- [table_now_app](https://github.com/yeeun-lee-bit/table_now_app) — Flutter table reservation app
-- [teamProjectOne-](https://github.com/yeeun-lee-bit/teamProjectOne-) — Flutter chart visualization project
-- [HannunHospital](https://github.com/yeeun-lee-bit/HannunHospital) — Flutter symptom-related project
+- [STEP_TEAM_PROJECT](https://github.com/bootcamp-team-projects/STEP_TEAM_PROJECT) — 팀 앱과 운영 웹 프로젝트
+- 담당 화면: 로그인, 회원가입, 상품 상세 화면
 
 ## Portfolio Website
 
