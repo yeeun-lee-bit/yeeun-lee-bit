@@ -84,11 +84,7 @@
 
 ## Portfolio Website
 
-**[Open Yeeun's Portfolio](https://yeeun-portfolio-with-zip.vercel.app/)**
-
-Scan the QR code to open the portfolio website.
-
-![Portfolio website QR code](https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Fyeeun-portfolio-with-zip.vercel.app%2F)
+**[Open Yeeun's Portfolio](https://yeeun-portfolio-bdltfiszf-with-zip.vercel.app/)**
 
 ## Currently Learning
 
