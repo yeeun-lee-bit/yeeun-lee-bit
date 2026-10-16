@@ -62,10 +62,10 @@
 - FastAPI 백엔드와 REST API 연동 작업
 
 **Project Repositories**
-- [smart_web](https://github.com/bootcamp-team-projects/smart_web) — Flutter web frontend and FastAPI integration
-- [smart_ml](https://github.com/bootcamp-team-projects/smart_ml) — Machine learning and data analysis
-- [smart_dl](https://github.com/bootcamp-team-projects/smart_dl) — Deep-learning work
-- [smart_docs](https://github.com/bootcamp-team-projects/smart_docs) — Project documentation
+- [smart_web](https://github.com/AI-MegaStudy/smart_web) — Flutter web frontend and FastAPI integration
+- [smart_ml](https://github.com/AI-MegaStudy/smart_ml) — Machine learning and data analysis
+- [smart_dl](https://github.com/AI-MegaStudy/smart_dl) — Deep-learning work
+- [smart_docs](https://github.com/AI-MegaStudy/smart_docs) — Project documentation
 
 ### Nanji Hangang Park Parking Vacancy Prediction App & Web
 
@@ -78,13 +78,13 @@
 - 앱·웹 프로젝트 진행 상황 조율
 
 **Project Repositories**
-- [nanji_web](https://github.com/bootcamp-team-projects/nanji_web) — Flutter web dashboard
-- [nanji_app](https://github.com/bootcamp-team-projects/nanji_app) — App repository
-- [nanji_work](https://github.com/bootcamp-team-projects/nanji_work) — Data and notebook work
+- [nanji_web](https://github.com/AI-MegaStudy/nanji_web) — Flutter web dashboard
+- [nanji_app](https://github.com/AI-MegaStudy/nanji_app) — App repository
+- [nanji_work](https://github.com/AI-MegaStudy/nanji_work) — Data and notebook work
 
 ### STEP Team Project
 
-- [STEP_TEAM_PROJECT](https://github.com/bootcamp-team-projects/STEP_TEAM_PROJECT) — 팀 앱과 운영 웹 프로젝트
+- [STEP_TEAM_PROJECT](https://github.com/AI-MegaStudy/STEP_TEAM_PROJECT) — 팀 앱과 운영 웹 프로젝트
 - 담당 화면: 로그인, 회원가입, 상품 상세 화면
 
 ## Portfolio Website
@@ -95,22 +95,16 @@ Scan the QR code to open the portfolio website.
 
 ![Portfolio website QR code](https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Fyeeun-portfolio-with-zip.vercel.app%2F)
 
-## Bootcamp Team Projects
+## AI-MegaStudy Team Projects
 
-All repositories in the [bootcamp-team-projects organization](https://github.com/orgs/bootcamp-team-projects/repositories) are indexed in the portfolio website.
+The portfolio website lists only team project repositories from the [AI-MegaStudy organization](https://github.com/orgs/AI-MegaStudy/repositories).
 
-### Featured Team Projects
-
-- **Harvest Slot** — [smart_web](https://github.com/bootcamp-team-projects/smart_web), [smart_ml](https://github.com/bootcamp-team-projects/smart_ml), [smart_dl](https://github.com/bootcamp-team-projects/smart_dl), [smart_docs](https://github.com/bootcamp-team-projects/smart_docs)
-- **Nanji Parking Forecast** — [nanji_web](https://github.com/bootcamp-team-projects/nanji_web), [nanji_app](https://github.com/bootcamp-team-projects/nanji_app), [nanji_work](https://github.com/bootcamp-team-projects/nanji_work)
-- **STEP Team Project** — [STEP_TEAM_PROJECT](https://github.com/bootcamp-team-projects/STEP_TEAM_PROJECT): login, sign-up, and detail screen implementation
-- **Table Now** — [table_now_app](https://github.com/bootcamp-team-projects/table_now_app)
-- **My Town, My Symptom** — [HannunHospital](https://github.com/bootcamp-team-projects/HannunHospital)
-- **Chart Project** — [teamProjectOne-](https://github.com/bootcamp-team-projects/teamProjectOne-)
-- **DDRI** — [ddri_web](https://github.com/bootcamp-team-projects/ddri_web), [ddri_work](https://github.com/bootcamp-team-projects/ddri_work)
-- **Smart App** — [smart_app](https://github.com/bootcamp-team-projects/smart_app), [SMART_APP2](https://github.com/bootcamp-team-projects/SMART_APP2)
-- **Shoes Shop** — [shoes_shop_app](https://github.com/bootcamp-team-projects/shoes_shop_app), [shoes_store_basic_app](https://github.com/bootcamp-team-projects/shoes_store_basic_app)
-- **Shoes Shop (Private)** — private organization repository; not linked from the public-facing project list
+- **Harvest Slot** — [smart_web](https://github.com/AI-MegaStudy/smart_web), [smart_ml](https://github.com/AI-MegaStudy/smart_ml), [smart_dl](https://github.com/AI-MegaStudy/smart_dl), [smart_docs](https://github.com/AI-MegaStudy/smart_docs)
+- **Nanji Parking Forecast** — [nanji_web](https://github.com/AI-MegaStudy/nanji_web), [nanji_app](https://github.com/AI-MegaStudy/nanji_app), [nanji_work](https://github.com/AI-MegaStudy/nanji_work)
+- **DDRI** — [ddri_web](https://github.com/AI-MegaStudy/ddri_web), [ddri_work](https://github.com/AI-MegaStudy/ddri_work)
+- **Smart App** — [smart_app](https://github.com/AI-MegaStudy/smart_app), [SMART_APP2](https://github.com/AI-MegaStudy/SMART_APP2)
+- **Table Now** — [table_now_app](https://github.com/AI-MegaStudy/table_now_app)
+- **Shoes Shop** — [shoes_shop_app](https://github.com/AI-MegaStudy/shoes_shop_app), [shoes_store_basic_app](https://github.com/AI-MegaStudy/shoes_store_basic_app)
 
 ## Currently Learning
 
