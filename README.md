@@ -1,6 +1,6 @@
 # Hi, I'm Yeeun Lee
 
-### Digital Service Planning · Data Analysis · AI-enabled Services
+### Digital Service Planning · AI-enabled Services
 
 기술과 데이터를 연결해 실용적인 디지털 서비스를 기획하고 구현하는 데 관심이 있습니다.
 
