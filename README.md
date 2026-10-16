@@ -84,7 +84,7 @@
 
 ## Portfolio Website
 
-**[Open Yeeun's Portfolio](https://yeeun-portfolio-bdltfiszf-with-zip.vercel.app/)**
+**[Open Yeeun's Portfolio](https://yeeun-portfolio-5mis6teln-with-zip.vercel.app/)**
 
 ## Currently Learning
 
