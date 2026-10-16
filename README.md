@@ -82,11 +82,6 @@
 - [nanji_app](https://github.com/AI-MegaStudy/nanji_app) — App repository
 - [nanji_work](https://github.com/AI-MegaStudy/nanji_work) — Data and notebook work
 
-### STEP Team Project
-
-- [STEP_TEAM_PROJECT](https://github.com/AI-MegaStudy/STEP_TEAM_PROJECT) — 팀 앱과 운영 웹 프로젝트
-- 담당 화면: 로그인, 회원가입, 상품 상세 화면
-
 ## Portfolio Website
 
 **[Open Yeeun's Portfolio](https://yeeun-portfolio-with-zip.vercel.app/)**
