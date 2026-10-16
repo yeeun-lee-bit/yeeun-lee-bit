@@ -93,7 +93,7 @@
 
 <p align="center">
   <a href="https://yeeun-portfolio-git-main-with-zip.vercel.app">
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180%26data=https%3A%2F%2Fyeeun-portfolio-git-main-with-zip.vercel.app%26bgcolor=FFFFFF%26color=344563" alt="Scan to open Yeeun Lee's portfolio website" width="150" />
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https%3A%2F%2Fyeeun-portfolio-git-main-with-zip.vercel.app&bgcolor=FFFFFF&color=344563" alt="Scan to open Yeeun Lee's portfolio website" width="150" />
   </a>
   <br />
   <strong><a href="https://yeeun-portfolio-git-main-with-zip.vercel.app">Open my portfolio website ↗</a></strong>
