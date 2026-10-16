@@ -90,17 +90,6 @@ Scan the QR code to open the portfolio website.
 
 ![Portfolio website QR code](https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Fyeeun-portfolio-with-zip.vercel.app%2F)
 
-## AI-MegaStudy Team Projects
-
-The portfolio website lists only team project repositories from the [AI-MegaStudy organization](https://github.com/orgs/AI-MegaStudy/repositories).
-
-- **Harvest Slot** — [smart_web](https://github.com/AI-MegaStudy/smart_web), [smart_ml](https://github.com/AI-MegaStudy/smart_ml), [smart_dl](https://github.com/AI-MegaStudy/smart_dl), [smart_docs](https://github.com/AI-MegaStudy/smart_docs)
-- **Nanji Parking Forecast** — [nanji_web](https://github.com/AI-MegaStudy/nanji_web), [nanji_app](https://github.com/AI-MegaStudy/nanji_app), [nanji_work](https://github.com/AI-MegaStudy/nanji_work)
-- **DDRI** — [ddri_web](https://github.com/AI-MegaStudy/ddri_web), [ddri_work](https://github.com/AI-MegaStudy/ddri_work)
-- **Smart App** — [smart_app](https://github.com/AI-MegaStudy/smart_app), [SMART_APP2](https://github.com/AI-MegaStudy/SMART_APP2)
-- **Table Now** — [table_now_app](https://github.com/AI-MegaStudy/table_now_app)
-- **Shoes Shop** — [shoes_shop_app](https://github.com/AI-MegaStudy/shoes_shop_app), [shoes_store_basic_app](https://github.com/AI-MegaStudy/shoes_store_basic_app)
-
 ## Currently Learning
 
 - Digital service planning and UX
