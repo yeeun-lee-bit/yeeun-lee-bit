@@ -91,6 +91,7 @@
 
 ## Portfolio Index
 
+- **Personal Portfolio Web App** — In development; the public link will be added after responsive and installability checks are complete.
 - [Bootcamp Portfolio](https://github.com/yeeun-lee-bit/bootcamp-portfolio) — Curated project index
 - [Team Projects](https://github.com/yeeun-lee-bit/team-project) — Index of collaborative project repositories
 
