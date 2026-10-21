@@ -90,7 +90,6 @@
 
 - Digital service planning and UX
 - Data-driven decision making
-- **Adobe Premiere Pro:** video editing and storytelling for public-interest and promotional content
 
 ---
 
